@@ -1,9 +1,10 @@
 # Tugas bikin VR Full Immersive
 
 ### set-up
-1. copy link dari sini
-2. buka package manager dan ambil assetnya saja, imposrt
+1. copy link github via tombol code
+2. di unity buka window, package manager, add package from github lalu ambil assetnya saja kemudian import
 3. buka folder scenes, dan buka your name room.scene
+4. mainkan
 
 ### control
 1. Bila anda menggunakan VR Device seperti Oculus atau Meta Quest (disarankan) anda tinggal mendownload software steam VR atau software lain yang bisa menghubungkan VR device anda ke PC anda. (hapus prefab XR Device Simulator di hierarchy)

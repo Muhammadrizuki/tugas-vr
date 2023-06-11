@@ -9,7 +9,7 @@
 1. Bila anda menggunakan VR Device seperti Oculus atau Meta Quest (disarankan) anda tinggal mendownload software steam VR atau software lain yang bisa menghubungkan VR device anda ke PC anda. (hapus prefab XR Device Simulator di hierarchy)
 
 2. Bila anda tidak punya device VR anda juga bisa menggunakan XR Device Simulator dengan mengunakan keyboard. 
-Untuk lebih lengkapnya bisa di lihat di Rig Simulator Keyboard Shortcuts.pdf file yang ada di folder assets
+Untuk lebih lengkapnya bisa di lihat di Rig Simulator Keyboard Shortcuts.pdf file
 
 ### Untuk lebih lengkapnya bisa dilihat disini, karena kami ngikut tutorial disini
 https://learn.unity.com/pathway/vr-development?uv=2021.3
